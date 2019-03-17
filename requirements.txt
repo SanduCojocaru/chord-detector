@@ -1,0 +1,6 @@
+matplotlib
+PyQt5
+numpy
+scipy
+sounddevice==0.3.12
+certifi==2018.4.16
